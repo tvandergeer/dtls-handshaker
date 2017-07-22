@@ -7,6 +7,7 @@ See [this post](https://groups.google.com/d/msg/kurento/AJdjdJvFmyg/2Qg7mVYRCAAJ
 
 ## dependencies ##
 * vagrant
+* kurento server running [the hello world example](https://github.com/Kurento/kurento-tutorial-node/tree/master/kurento-hello-world)
 
 
 ## instructions ##
