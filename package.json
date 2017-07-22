@@ -1,0 +1,16 @@
+{
+  "name": "dtls-handshaker",
+  "version": "1.0.0",
+  "description": "Acts as a WebRTC client (SDP + ICE + STUN + DTLS handshake) but then messes up the DTLS handshake to see how the remote party responds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom van der Geer",
+  "license": "ISC",
+  "dependencies": {
+    "libnice": "^0.1.6",
+    "sdp-transform": "^2.3.0",
+    "ws": "^1.1.4"
+  }
+}
