@@ -11,6 +11,6 @@
   "dependencies": {
     "libnice": "^0.1.6",
     "sdp-transform": "^2.3.0",
-    "ws": "^1.1.4"
+    "ws": ">=3.3.1"
   }
 }
